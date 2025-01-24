@@ -1,0 +1,4 @@
+_type: "prompt"
+template: '한국의 현재시간은 {now}입니다. 한국의 현재시간과 {nation}의 현재시간을 출력해.'
+input_variables: ["nation"]
+partial_variables: {'now': datetime.now().strftime('%Y년 %m월 %d일 %H시 %M분 %S초')}

@@ -1,0 +1,4 @@
+langchain_openai
+langchain_community
+rank_bm25
+faiss-cpu

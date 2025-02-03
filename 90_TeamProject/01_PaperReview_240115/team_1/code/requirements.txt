@@ -1,0 +1,12 @@
+pdfplumber
+langchain-text-splitters
+tiktoken
+langchain_experimental
+langchain_openai
+langchain_core
+langchain-community
+streamlit
+python-dotenv
+PyYAML
+python-magic
+werkzeug

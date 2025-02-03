@@ -1,0 +1,2 @@
+langchain-community==0.3.14
+langchain-teddynote==0.3.41
